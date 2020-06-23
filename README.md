@@ -1,12 +1,12 @@
-# website_portforio_wordpress
+# website_portforio
 
 
 ===
 
 ### 概要
-ポートフォリオ-wordpress
+ポートフォリオ
 
 ### URL
-https://github.com/NanaTerada/website_portforio_wordpress.git
+https://github.com/NanaTerada/website_portforio.git
 
 ### メモ
